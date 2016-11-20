@@ -9,4 +9,4 @@ Some of the options are listed here, to be able to continue the discussion.
 ## To run
 This is not an application, but a set of tests that demonstrates a point.
 
-So to run just open in Visual Studio, go to Test Explorer and run all tests.
+So to run just open the solution in Visual Studio, go to Test Explorer and run all tests.
